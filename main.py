@@ -10,3 +10,4 @@ from AirqualityIndex import (
 if __name__ == "__main__":
     # Call the main AQI system function
     run_aqi_system()
+    

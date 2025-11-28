@@ -87,4 +87,3 @@ def run_aqi_system():
             break
         else:
             print("Invalid choice. Enter 1-4.\n")
-            
